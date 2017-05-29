@@ -103,6 +103,8 @@
       <id>chrome</id>
       <properties>
         <capabilities>/chrome.capabilities</capabilities>
+        <site.url>http://192.168.113.1/</site.url>
+        <browser.name>chrome</browser.name>
       </properties>
     </profile>
     <profile>
